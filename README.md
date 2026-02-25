@@ -25,4 +25,5 @@ This project demonstrates understanding of:--
 - Error handling in Python
 - Modular programming practices
 I  developed an independent project of a multi-user task management system using Python to examine real-world applications of database systems, python and cybersecurity concepts. This project utilizes SQLite for relational database storage and applies SHA-256 hashing for secure user credential management. In creating distinct user task views with foreign key constraints, I applied concepts of data integrity, modularity, and backend system design.
+
 This project was developed as part of personal academic development and demonstrates practical application of programming, database systems, and cybersecurity fundamentals.
