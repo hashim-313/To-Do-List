@@ -8,14 +8,15 @@ Features ;--
 - 📋 View Tasks (sorted by due date)
 - ✅ Mark Tasks as Completed
 - ❌ Delete Tasks
-- 💾 Persistent Storage using SQLite Database
+- 💾 Persistent Storage using SQLite Database.
   
 Technologies Used :--
 - Python 3
 - SQLite3
 - hashlib (SHA-256 encryption)
 - Spyder IDE
-- Console-based UI with emojis for enhanced user experience
+- Console-based UI with emojis for enhanced user experience.
+
 This project demonstrates understanding of:--
 - Database design and relational modeling
 - SQL query execution (INSERT, SELECT, UPDATE, DELETE)
