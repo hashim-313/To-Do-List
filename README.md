@@ -11,7 +11,7 @@ Features ;--
 - 💾 Persistent Storage using SQLite Database.
   
 Technologies Used :--
-- Python 3
+- Python 
 - SQLite3
 - hashlib (SHA-256 encryption)
 - Spyder IDE
