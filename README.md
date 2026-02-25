@@ -9,6 +9,7 @@ Features ;--
 - ✅ Mark Tasks as Completed
 - ❌ Delete Tasks
 - 💾 Persistent Storage using SQLite Database
+  
 Technologies Used :--
 - Python 3
 - SQLite3
