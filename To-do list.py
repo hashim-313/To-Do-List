@@ -131,6 +131,7 @@ def main_menu():
               print("Invalid Option ❌ \n")
                     
 m = main_menu()
+print(m)
             
            
            
@@ -139,3 +140,4 @@ m = main_menu()
                 
         
          
+
