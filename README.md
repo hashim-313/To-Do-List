@@ -1,5 +1,4 @@
 # Multi-user Task Manager 
-First Project
 
 Features :--
 - 🔐 User Registration & Login System
