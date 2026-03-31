@@ -1,6 +1,7 @@
-# To-Do-List
+# Multi-user Task Manager 
 First Project
-Features ;--
+
+Features :--
 - 🔐 User Registration & Login System
 - 🔒 Secure Password Hashing using SHA-256
 - 👤 Multi-User Support (each user sees only their own tasks)
